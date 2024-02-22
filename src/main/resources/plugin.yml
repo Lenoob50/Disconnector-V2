@@ -1,0 +1,4 @@
+name: Disconector
+version: '${project.version}'
+main: fr.lenoob.disconector.Disconector
+api-version: '1.20'
